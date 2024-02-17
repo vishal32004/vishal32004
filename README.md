@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/Prisma-100000?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
-    <img src="https://img.shields.io/badge/Next.js-100000?style=for-the-badge&logo=nextjs&logoColor=white" alt="next js" />
+    <img src="https://img.shields.io/badge/Next.js-100000?style=for-the-badge&logo=next.js&logoColor=white" alt="next js" />
 </p>
 <br>
 
