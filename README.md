@@ -29,7 +29,7 @@
 - 💬 Ask me about **Next, Advance CSS, VanillaJS, ReactJs**
 
 - 📫 How to reach me **vishaltiwari1532004@gmail.com**
-- <h2><a href="">📜 Download Resume</a></h2>
+- <h2><a href="https://drive.google.com/file/d/1-qTeUhMRa3GZrHQoU4LhGISqB6iFN5Lv/view?usp=sharing" target="_blank">📜 Download Resume</a></h2>
 
 
 <!----------------------------------- About Section ------------------------------------>
