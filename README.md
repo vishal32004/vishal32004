@@ -11,7 +11,7 @@
     </a>
 </p>
 <h3>
-    <i>A passionate frontend developer from India.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code</i>
+    <i>A passionate Fullstack developer from India.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code</i>
 </h3>
 
 
